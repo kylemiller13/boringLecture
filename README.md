@@ -1,8 +1,8 @@
-# Boring leacture
+# Boring lecture
 
 #### By Kyle Miller
 
-#### This is a boring leacture about the life cycle of a pumpkin
+#### This is a boring lecture about the life cycle of a pumpkin
 
 ## Technologies Used
 
